@@ -1,1 +1,0 @@
-Used to create a shared api gateway to route to different discord bots
