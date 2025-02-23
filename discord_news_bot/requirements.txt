@@ -1,0 +1,15 @@
+# AWS CDK
+aws-cdk-lib                 # AWS CDK library for infrastructure as code
+constructs
+
+# Code Quality & Linting
+flake8                      # Linter for Python code
+black                       # Code formatter
+
+# Testing Frameworks
+pytest                      # Unit testing framework
+pytest-asyncio              # For testing async functions (Discord bot tests)
+moto                        # Mock AWS services for testing CDK stacks
+
+# Environment
+python-dotenv

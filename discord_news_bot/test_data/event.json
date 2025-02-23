@@ -1,0 +1,6 @@
+{
+  "source": "aws.events",
+  "detail": {
+    "task": "news_post"
+  }
+}

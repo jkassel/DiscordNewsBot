@@ -1,0 +1,6 @@
+requests
+discord.py
+atproto
+pynacl
+boto3
+feedparser

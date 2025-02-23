@@ -1,0 +1,15 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore local environment files
+discord_news_bot/.env
+venv/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore CDK assets
+cdk.out/
+node_modules/
